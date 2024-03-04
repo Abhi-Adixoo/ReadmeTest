@@ -13,27 +13,24 @@
     <a href="https://github.com/Adixoo-Brand/adixoo-web"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/Adixoo-Brand/adixoo-web/issues">Report Bug</a>
-    .
-    <a href="https://github.com/Adixoo-Brand/adixoo-web/issues">Request Feature</a>
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/Adixoo-Brand/adixoo-web?color=dark-green) ![Forks](https://img.shields.io/github/forks/Adixoo-Brand/adixoo-web?style=social) ![Issues](https://img.shields.io/github/issues/Adixoo-Brand/adixoo-web) ![License](https://img.shields.io/github/license/Adixoo-Brand/adixoo-web) 
+![Contributors](https://img.shields.io/github/contributors/Adixoo-Brand/adixoo-web?color=dark-green) ![Forks](https://img.shields.io/github/forks/Adixoo-Brand/adixoo-web?style=social) ![Issues](https://img.shields.io/github/issues/Adixoo-Brand/adixoo-web) 
 
 ## About The Project
 
-![Screen Shot](https://res.cloudinary.com/dexhxoret/image/upload/c_scale,w_319/v1709116278/fullwhite_o66n84.png)
+![Screen Shot](/Home.png)
 
 Adixoo_web project is based on adixoo brand private limited company. The project is built using Next JS, JavaScript, node js and Tailwind utility class CSS.
 
 Here's why:
 
-Cutting-Edge Technology: Built with Next.js, JavaScript, Node.js, and Tailwind CSS, Adixoo_web represents the forefront of modern web development, ensuring a seamless and dynamic user experience.
+- Cutting-Edge Technology: Built with Next.js, JavaScript, Node.js, and Tailwind CSS, Adixoo_web represents the forefront of modern web development, ensuring a seamless and dynamic user experience.
 
-Reflecting Adixoo's Expertise: Adixoo_web serves as a digital showcase of Adixoo Brand Private Limited's extensive expertise in digital engineering and enterprise modernization, allowing clients to witness firsthand the innovative solutions they provide.
+- Reflecting Adixoo's Expertise: Adixoo_web serves as a digital showcase of Adixoo Brand Private Limited's extensive expertise in digital engineering and enterprise modernization, allowing clients to witness firsthand the innovative solutions they provide.
 
-User-Centric Design: With a focus on user experience, Adixoo_web prioritizes intuitive navigation and visually appealing design elements, ensuring visitors can easily explore Adixoo's services and offerings.
+- User-Centric Design: With a focus on user experience, Adixoo_web prioritizes intuitive navigation and visually appealing design elements, ensuring visitors can easily explore Adixoo's services and offerings.
 
 ## Built With
 
