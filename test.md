@@ -2,7 +2,7 @@
    <br/>
 <p align="center">
   <a href="https://github.com/Adixoo-Brand/adixoo-web">
-    <img src="https://res.cloudinary.com/dexhxoret/image/upload/c_scale,w_319/v1709116278/fullwhite_o66n84.png" alt="Logo" width="80" height="80">
+    <img src="[https://res.cloudinary.com/dexhxoret/image/upload/c_scale,w_319/v1709116278/fullwhite_o66n84.png](https://github.com/Abhi-Adixoo/ReadmeTest/blob/main/aidxoo-black_egjkbp.png)" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Cupertino</h3>
