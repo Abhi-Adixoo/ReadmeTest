@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/Adixoo-Brand/adixoo-web">
-    <img src="/aidxoo-black_egjkbp.png" alt="Logo" width="auto" height="auto">
+    <img src="/Adixoo-logo.png" alt="Logo" width="auto" height="auto">
   </a>
 
   <h3 align="center">Cupertino</h3>
