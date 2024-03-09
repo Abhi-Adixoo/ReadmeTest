@@ -116,19 +116,20 @@ See the [open issues](https://github.com/Adixoo-Brand/adixoo-web/issues) for a l
 
 We'd love to hear from you! Whether you have a project idea, want to collaborate, or simply have questions about our services, feel free to reach out:
 
-- Email: contact@awesomecompany.com
-- Website: [www.awesomecompany.com](https://www.awesomecompany.com)
-- Twitter: [@awesomecompany](https://twitter.com/awesomecompany)
-- LinkedIn: [AwesomeCompany](https://www.linkedin.com/company/awesomecompany)
-
-## License
-
-Distributed under the MIT License. See [LICENSE](https://github.com/Adixoo-Brand/adixoo-web/blob/main/LICENSE.md) for more information.
+- Email: info@adixoo.com
+- Website: [Adixoo Brand Pvt Ltd](https://adixoo.com/)
+- Twitter: [@AdixooBrand](https://x.xom/AdixooBrand)
+- LinkedIn: [Adixoo](https://www.linkedin.com/company/adixoo)
 
 ## Authors
 
-* **Faizan** - *Dev* - [Faizan](https://github.com/faiz) - *Built Web*
+* **[Rampal](https://github.com/)** - *Dev* - Built Website
+* **[Faizan](https://github.com/)** - *Dev* - Built Website
+* **[Anuj](https://github.com/)** - *Graphic* - Design the website
+* **[Nayan](https://github.com/)** - *Graphic* - Design the website
 
 ## Acknowledgements
 
-* [Rampal](https://github.com/ramu)
+* [Aditya](https://github.com/)
+* [Shadiya](https://github.com/)
+* [Rahul](https://github.com/)
